@@ -87,27 +87,3 @@ To address this, the data was migrated into a SQL database where analytics could
 * Designing analytics-ready database structures
 * Using windows function for advanced analytics
 
----
-
-## 🙏 Acknowledgments
-
-Special thanks to **Dhaval Patel Sir**, **Hemanand Vadivel Sir**, and the entire **Codebasics Team** for their guidance and learning resources.
-
-Additional thanks to **Pradeep M Sir, Aryan Pokhriyal Sir, Pratik Sonawane Sir, Komal Shrivastav, Virat Singh Chauhan, Surya Chandra, and Satishkumar Thommandru** for their constant support and motivation.
-
----
-
-## 📎 Resources
-
-* 📽️ Project Presentation Video: *(Link to be added)*
-* 💻 GitHub Repository: *(This repository)*
-
----
-
-## 💬 Feedback
-
-Feedback and suggestions are always welcome! Feel free to raise an issue or connect with me on LinkedIn.
-
----
-
-⭐ *If you found this project helpful, consider giving it a star!*
